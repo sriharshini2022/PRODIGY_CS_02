@@ -7,3 +7,4 @@ The key parameter in both functions is currently set to None, which means the pr
 This program is a basic example of image encryption and decryption.
 Author
 VALLABHAJOSYULA SRI HARSHINI, Intern at Prodigy Infotech
+ 
